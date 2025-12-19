@@ -22,6 +22,12 @@ The project is split into two main components:
 
 ---
 
+## Ai tools used
+
+- **Gemini**: Gemini 3 - Fast
+- **Cursor**: with the following models: Composer 1, Opus 4.5, Sonnet 4.5, GPT-5.1 Codex Max, GPT-5.2, Gemini 3 Flash, GPT 5.1 Codex Mini, Grok Code
+
+
 ## Setup and Run Instructions
 
 ### Prerequisites
